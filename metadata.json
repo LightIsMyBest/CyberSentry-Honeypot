@@ -1,0 +1,5 @@
+{
+  "name": "CyberSentry Honeypot",
+  "description": "An advanced honeypot dashboard that simulates and visualizes various types of cyber attacks in real-time, providing detailed AI-powered analysis for each detected threat.",
+  "requestFramePermissions": []
+}
